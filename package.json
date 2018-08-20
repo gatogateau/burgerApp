@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gatogateau/burger/issues"
+    "url": "https://github.com/gatogateau/burgerApp/issues"
   },
-  "homepage": "https://github.com/gatogateau/burger#readme",
+  "homepage": "https://github.com/gatogateau/burgerApp#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
